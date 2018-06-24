@@ -11,6 +11,8 @@ this app for whois site
 
 - download pip for windows https://mr-robot1.cf/get-pip.py
 
+- run get-pip.py
+
 - wait for install pip
 
 - run get-pip.py
