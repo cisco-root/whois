@@ -12,7 +12,7 @@ this app for whois site
 
 - wait for install pip
 
-- run git-pip.py
+- run get-pip.py
 
 - run cmd 
 
