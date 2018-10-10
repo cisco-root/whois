@@ -2,20 +2,18 @@
 ![Platform windows](https://img.shields.io/badge/Platform-windows-lightgrey.svg)
 
 <p align="center">
-  <a href=""><img width="300" src="https://mr-robot1.cf/cat-unicorn.jpg"></a>
+  <a href=""><img width="300" src=""></a>
 
 # whois
 this app for whois site
 
 ### install
 
-- download pip for windows https://mr-robot1.cf/get-pip.py
+- download pip for windows or linux
 
 - run get-pip.py
 
 - wait for install pip
-
-- run get-pip.py
 
 - run cmd 
 
