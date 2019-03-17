@@ -1,13 +1,15 @@
 import whois
 import os
-os.system('cls')
-site = input("site: ")
-
-s = whois.whois(site)
-
-print(s)
-import urllib.request
 import time
+#-------clear your shell--------#
+os.system('cls')
+#+++++++Getting the desired site++++++
+site = input("site: ")
+#========Receive information and save it for processing=======
+s = whois.whois(site)
+#*******Show information*******
+print(s)
+#"""""exit"""""""
 time.sleep(6)
 print('''
  _____ _____  _____  _____ ____  
